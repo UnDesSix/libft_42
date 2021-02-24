@@ -5,4 +5,3 @@ standard library as well as some other utility functions that you will use durin
 
 TO DO : 
 Norm 3.0
-
